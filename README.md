@@ -1,6 +1,6 @@
 # ServeSmart
 
-ServeSmart is a mess management solution designed to address food preparation and dining space challenges at IIT Kottayam. By enabling students to pre-register for meals through a meal token and QR code system, ServeSmart allows admins to accurately track meal attendance, reducing food waste and optimizing resources. Built on a Python full-stack framework, the platform also features real-time data tracking and an admin dashboard for monitoring and managing meal registrations.
+ServeSmart is a mess management solution designed to address food preparation and dining space challenges at IIIT Kottayam. By enabling students to pre-register for meals through a meal token and QR code system, ServeSmart allows admins to accurately track meal attendance, reducing food waste and optimizing resources. Built on a Python full-stack framework, the platform also features real-time data tracking and an admin dashboard for monitoring and managing meal registrations.
 
 ## Features
 
@@ -16,12 +16,12 @@ ServeSmart is a mess management solution designed to address food preparation an
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Flask
 - **Database:** MySQL
-- **QR Code Generation:** [Library Name]
+- **QR Code Generation:** Segno
 - **Version Control:** Git, GitHub
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ServeSmart.git
+   git clone https://github.com/Srivathsa252/servesmart
    cd ServeSmart
